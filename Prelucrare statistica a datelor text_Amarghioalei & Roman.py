@@ -53,5 +53,5 @@ with open('emagscrap.csv','a') as csv_file:
  writer = csv.writer(csv_file)
  writer.writerow(['nume produs', 'pret', 'moneda', 'rating', 'review', 'discount'])
 # The for loop
- for name, price, currency, rating, review in data:
-  writer.writerow([name, price, currency, rating, review, datetime.now()])
+ for name, price, currency, rating, review, discount in data:
+  writer.writerow([name, price, currency, rating, review, discount, datetime.now()])
