@@ -1,0 +1,541 @@
+,Nume,Pret,Clasa,Review,Discount
+0,"Frigider cu doua usi Arctic AD54240P+, 223 l, Clasa A+, H 146.5, Alb",799.9,A+,141,0.3
+1,"Frigider cu doua usi Heinner HF-M207SA+, 204 l, Clasa A+, Iluminare LED, Control mecanic, H 144 cm, Argintiu",699.9,A+,3,0.3
+2,"Frigider cu doua usi Arctic AD54280MT+, 250 l, Clasa A+, Garden Fresh, ECO LED, H 160.6 cm, Argintiu",1055.9,A+,2,0.3
+3,"Frigider cu doua usi LG GTB574PZHZD, 438 l, Clasa A++, Display LED, No Frost, Compresor Liniar, Smart Diagnosis, Wifi, Racire prin usa, H 178 cm, Argintiu",2299.99,A++,45,0.3
+4,"Frigider cu 2 usi Hotpoint ENXTM 18211 F, 419L, No Frost, H 180 cm, Clasa A+, Alb",2199.9,A+,1,0.3
+5,"Frigider cu doua usi Beko RDNE535E20DZM, 471 l, Clasa A+, NeoFrost, H 193 cm, Gri Sidef",2299.99,A+,148,0.3
+6,"Frigider cu doua usi Arctic AD6310MT++, 306 l, Clasa A++, H 175.4 cm, Argintiu",1089.9,A++,25,0.3
+7,"Frigider cu doua usi Star-Light FDDV-213A+, 213 l, Clasa A+, H 144 cm, Alb",729.99,A+,69,0.3
+8,"Frigider cu o usa Daewoo FN-153, 124 l, Clasa A+, H 91.5 cm, Negru",849.99,A+,21,0.3
+9,"Frigider cu doua usi LG GTF916PZPZD, 592 l, Clasa A++, No Frost, Dozator apa, Smart Diagnosis, WiFi, Compresor liniar, Afisaj extern, Racire usa, H 184 cm, Argintiu",3575.99,A++,56,0.3
+10,"Frigider Zanussi ZRA22800WA, 232 l, Clasa A+, H 125 cm, Alb",952.99,A+,7,0.3
+11,"Frigider cu doua usi Samsung RT46K6630S8/EO, 452 l, No Frost, H 1825, Clasa A+, Inox",2229.99,A+,55,0.3
+12,"Frigider cu o usa Arctic ANFB276+, 250 l, Clasa A+, H 151 cm, Alb",929.99,A+,24,0.3
+13,"Frigider cu o usa Star-Light FTTM-98APP, 98 l, Clasa A++, H 84.5 cm, Alb",549.99,A++,171,0.3
+14,"Frigider cu doua usi Arctic AD6310++, 306 l, Clasa A++, H 175.4, Alb",1079.9,A++,87,0.3
+15,"Frigider cu doua usi Beko RDNE535E30DZXB, 471 litri, Clasa A++, Compartiment 0°C, Compresor ProSmart Inverter, Everfresh+, NeoFrost, 193 cm, Argintiu",2047.99,A++,11,0.3
+16,"Frigider minibar Star-Light MBM-45AP, 45 l, Clasa A+, H 49 cm, Alb",319.99,A+,97,0.3
+17,"Frigider cu doua usi Beko RDSA310M30XB, 306 l, Clasa A++, H 175.4, Metal Look",1199.99,A++,4,0.3
+18,"Frigider minibar Star-Light MBM-67APBL, 67 l, Clasa A+, H 63 cm, Negru",449.99,A+,154,0.3
+19,"Frigider cu doua usi Candy CMDDS 5142W, 204 l, Clasa A+, H 143 cm, Alb",739.99,A+,4,0.3
+20,"Frigider cu o usa Star-Light FTTV-81A+, 81 l, Clasa A+, H 83.8 cm, Alb",529.99,A+,10,0.3
+21,"Frigider cu doua usi LG GTF744BLPZD, 509 l, Clasa A++, No Frost, Smart Diagnosis, WiFi, Mirror Touch Display, Iluminare LED, Dispenser apa, Compresor inverter liniar, H 180 cm, Negru",2999.99,A++,9,0.3
+22,"Frigider cu doua usi Indesit TAA5, 415 l , Clasa A+, H 180 cm, Alb",1279.99,A+,96,0.3
+23,"Frigider cu doua usi Hotpoint ENXTY19222XFW, 472 l, Clasa A+, Full No Frost, H 190 cm, Inox",1799.0,A+,89,0.3
+24,"Frigider cu doua usi Electrolux EJ2801AOX2, 265 l, Clasa A+, H 159 cm, Inox antiamprenta",1379.99,A+,34,0.3
+25,"Frigider cu o usa Beko RSSA445K21XP, 402 l, Clasa A+, Iluminare LED, H185.3 cm, Inox Antiamprenta",1469.99,A+,21,0.3
+26,"Frigider cu doua usi Beko RDNE455K30ZXB, 406 l, Clasa A++, NoFrost, H 185 cm, Argintiu",1789.99,A++,16,0.3
+27,"Frigider cu doua usi Samsung RT32K5030S9/EO, 321 l, Clasa A+, No Frost, Compresor Digital Inverter, H 171.5 cm, Inox",1879.9,A+,38,0.3
+28,"Frigider cu doua usi Beko RDSA290M20XP, 278 l, Clasa A+, H 162 cm, Inox",1199.9,A+,7,0.3
+29,"Frigider cu doua usi Samsung RT50K6335SL/EO, 500 l, Clasa A++, No Frost, Compresor Digital Inverter, Twin Cooling Plus, Smart Conversion, Afisaj extern, H 178.5 cm, Inox",2839.9,A++,30,0.3
+30,"Frigider cu o usa Arctic AR60290+, 286 litri, Clasa A+,H 151 cm, Alb",949.99,"A+,H",1,0.3
+31,"Frigider cu o usa Star-Light FTTM-113AP, 113 l, Clasa A++, H 84.5 cm, Alb",599.99,A++,156,0.3
+32,"Frigider cu doua usi Star-Light FDDV-253A+, 253 l, Clasa A+, H 160 cm, Alb",799.99,A+,5,0.3
+33,"Frigider cu o usa Heinner HF-100A+, 100 l, Clasa A+, H 83.9 cm, Alb",653.61,A+,49,0.3
+34,"Frigider cu o usa Arctic ANFB155+, 138 l, Clasa A+, H 101.7 cm, Alb",779.99,A+,41,0.3
+35,"Frigider cu doua usi Samsung RT38K5435S9/EO, 384 l, Clasa A++, No Frost, Twin Cooling Plus, Compresor Digital Inverter, Display, Iluminare LED, Inox",1999.99,A++,0,0.3
+36,"Frigider cu doua usi Beko DN161220X, 565 l, Clasa A+, NeoFrost, H 182 cm, Inox antiamprenta",2799.99,A+,22,0.3
+37,"Frigider cu doua usi Arctic AD60290+, 278 l, Clasa A+, H 162, Alb",962.0,A+,9,0.3
+38,"Frigider cu doua usi Arctic AD54280+, 250 l, Clasa A+, Garden Fresh, H 166.3 cm, Alb",949.99,A+,15,0.3
+39,"Frigider cu doua usi Beko RDSE465K20W, 437 l, Clasa A+, H 185 cm, Alb",1599.99,A+,42,0.3
+40,"Frigider cu doua usi Samsung RT58K7105SL/EO, 583 l, Clasa A++, No Frost, Compresor Digital Inverter, Dozator de apa, H 180 cm, Inox",3299.9,A++,8,0.3
+41,"Frigider Heinner HF-V401NFWA+, 380 l, Clasa A+, No Frost, Control electronic, Iluminare LED, H 186 cm, Alb",1369.99,A+,0,0.3
+42,"Frigider cu doua usi Zanussi ZRT27100WA, 265 l, Clasa A+, H 159 cm, Alb",1099.99,A+,31,0.3
+43,"Frigider cu doua usi Arctic AD54240+, 223 l, Clasa A+, H 145.8 cm, Alb",949.9,A+,46,0.3
+44,"Frigider cu doua usi Heinner HF-205A+, 205 l, Clasa A+, Iluminare LED, H 143.4 cm, Alb",899.9,A+,4,0.3
+45,"Frigider cu doua usi NEO BCD-295 DSSA+, clasa A+, inox, 224 l, dozator apa, H 170 cm",1399.9,A+,1,0.3
+46,"Frigider cu o usa Star-Light FTTM-113APPSS, 113 l, Clasa A++, H 84.5 cm, Gri/Inox",649.99,A++,156,0.3
+47,"Frigider cu 2 usi Beko RDNE505E30ZXB, 450 litri, NoFrost, Touch Control, Clasa A++, H 185 cm, Argintiu",1957.99,A++,3,0.3
+48,"Frigider cu 2 usi Hotpoint ENTM18210VW, 414 l, Clasa A+, alb",1539.99,A+,27,0.3
+49,"Frigider cu o usa incorporabil Whirlpool ARG 18081, 318 l, Clasa A++, 6th Sense, H 177.1 cm",2549.99,A++,0,0.3
+50,"Frigider cu doua usi LG GTB744PZHZD, 506 l, Clasa A++, No Frost, Compresor Inverter Linear, Display Extern, Smart ThinQ, H 180 cm, Inox",3399.9,A++,7,0.3
+51,"Frigider cu o usa Arctic FB125+, 114 l, Clasa A+, H 84 cm, Alb",749.99,A+,17,0.3
+52,"Frigider cu doua usi Hansa FD207.4, 138 l, Clasa A+, Control mecanic, H 129 cm, Alb",779.99,A+,5,0.3
+53,"Frigider cu doua usi Heinner HF-V240A+, 240 l, Clasa A+, Less Frost, Control mecanic, H 160 cm, Alb",899.99,A+,2,0.3
+54,"Frigider cu doua usi Heinner HF-270A+, 270 l, Clasa A+, H 170 cm, Alb",979.99,A+,8,0.3
+55,"Frigider cu doua usi Midea HD-520FWENW, 371l, Clasa A+, Total No frost, Dozator Apa, H 171,2cm, Inox",1549.99,A+,1,0.3
+56,"Frigider cu doua usi Heinner HF-M207A+, 204 l, Clasa A+, Iluminare LED, Control mecanic, H 144 cm, Alb",779.99,A+,1,0.3
+57,"Frigider cu doua usi Indesit TIAA 12.1, 306 l, Clasa A+, H 175, Alb",1139.0,A+,5,0.3
+58,"Frigider cu doua usi Liebherr CT 2931, 270 l, Clasa A++, SmartFrost, VarioSpace, H 157.1 cm, Alb",1499.9,A++,7,0.3
+59,"Frigider cu doua usi MIDEA HD-554FWENWH, 410l, Total No Frost, Dozator Apa, Clasa A+, H 173 cm, Alb",1699.99,A+,0,0.3
+60,"Frigider cu o usa Heinner HF-V250A+, 250 l, Clasa A+, Control mecanic, H 144 cm, Alb",969.99,A+,1,0.44
+61,"Frigider cu doua usi MIDEA HD-554FWEN, 410l, Total No Frost, Dozator Apa, Clasa A+, H 173 cm, Inox",1899.99,A+,0,0.44
+62,"Frigider cu o usa incorporabil Bosch KIF51AF30, 222 l, Clasa A++, FreshSense, H 140 cm",2799.99,A++,2,0.44
+63,"Frigider cu doua usi NEO BCG-260 DBA+, clasa A+, 205 l, dozator apa, H 143 cm",1149.99,A+,2,0.44
+64,"Frigider cu o usa Arctic AF54250+, 221 l, Clasa A+, H 144 cm, Alb",899.99,A+,1,0.44
+65,"Frigider cu o usa Daewoo FN-146, 122 l, Clasa A+, H 85.8 cm, Alb",699.99,A+,11,0.44
+66,"Frigider cu doua usi Indesit RAA 24N, 217 l, Clasa A+, H 140, Alb",1069.99,A+,4,0.44
+67,"Frigider cu doua usi MIDEA HD-463FWEN, 340l, Clasa A+, Total No Frost, H 175, Inox",1399.99,A+,0,0.44
+68,"Frigider cu 2 usi Bosch KDN53VL20, 454 l, No Frost, IceTwister, Iluminare LED, VitaFresh, Clasa A+, H 186 cm, Inox",3059.99,A+,0,0.44
+69,"Frigider cu o usa Bosch KSV36AI3P, 348 L , Clasa A++, FreshSense, Iluminare LED, H 186 cm, Inox",3099.99,A++,1,0.44
+70,"Frigider cu o usa Daewoo FN-153, 124 l, Clasa A+, H 91.5 cm, Rosu",999.99,A+,21,0.44
+71,"Frigider cu doua usi NEI MRF-142, Clasa A+, 138 L, H 128 cm, Inox",849.99,A+,6,0.44
+72,"Frigider minibar Heinner HMB-47NHA+, 47 l, Clasa A+, H 51.3 cm, Alb",419.99,A+,19,0.44
+73,"Frigider cu doua usi Liebherr CTel 2931, 270 l, SmartFrost, VarioSpace, Clasa A++, H 157.1 cm, Inox",1499.99,A++,0,0.44
+74,"Frigider cu doua usi NEO BCG-260 DSA+, clasa A+, 205 l, dozator apa, H 143 cm",1149.99,A+,0,0.44
+75,"Frigider cu doua usi Heinner HF-V213A+, 213 l, Clasa A+, Control mecanic, H 144 cm, Alb",899.99,A+,1,0.44
+76,"Frigider cu o usa incorporabil Liebherr Confort IK 3520, 325 l, Clasa A++, SuperCool, H 177 cm",3299.99,A++,2,0.44
+77,"Frigider minibar Samus SW060A+, Clasa A+, Capacitate 44 litri, 3 Ani garantie, Alb",369.99,A+,20,0.44
+78,"Frigider minibar LDK BC 68, Clasa A+, Capacitate 63 L, H 62 cm, Alb",439.91,A+,7,0.44
+79,"Frigider cu doua usi Candy CMDDS 5142W, 204 L, Clasa A+, H 143 cm, Argintiu",999.99,A+,0,0.44
+80,"Frigider cu doua usi Indesit TIAA 12X, 306 l, Clasa A+, H 175 cm, Inox",1339.99,A+,0,0.44
+81,"Frigider cu doua usi Heinner HF-H425NFXA+, 425 L, Full No Frost, Clasa A+, H 177cm, Inox",1779.99,A+,0,0.44
+82,"Frigider cu doua usi Samsung RT38K5530S9/EO, 384 l, Clasa A+, No Frost, H 178.5, Inox",1749.99,A+,82,0.44
+83,"Frigider cu doua usi Liebherr Confort CT 3306, 236 l, Clasa A+, H 175 cm, Alb",1699.99,A+,12,0.44
+84,"Frigider cu doua usi Daewoo FN-510DWC, 507 l, Clasa A+, Full No Frost, Iluminare LED, H 183.4 cm, Alb",2699.99,A+,0,0.44
+85,"Frigider cu o usa Heinner HF-N91A+, 91 l, Clasa A+, Iluminare LED, H 84.2 cm, Alb",508.99,A+,1,0.44
+86,"Frigider cu doua usi Daewoo FN-56BNSS, 558 l, Clasa A++, Full No Frost, Iluminare LED, H 177 cm, Argintiu",3399.99,A++,1,0.44
+87,"Combina frigorifica Teka RLF 74925 SS, Free Standing, 2 usi, No frost, 334 l, A++, inox",5499.0,lipsa,0,0.44
+88,"Frigider cu doua usi MIDEA HD-606FWEN, 463l, Total No Frost, Dozator Apa, Clasa A+, H 188 cm, Inox",1999.99,A+,0,0.44
+89,"Frigider Gorenje VW TRANSPORTER T1 OBRB153RL, 230 l, Clasa A+++, H 154 cm, Rosu",5699.99,A+++,0,0.44
+90,"Frigider cu doua usi Crown CBN-320DIX, Full No Frost, clasa A+, 318 l, dozator apa, H 185 cm, inox",1899.0,A+,0,0.44
+91,"Frigider Electrolux ERF4116AOX, 395 litri, H 185, Clasa A++, Inox antiamprenta",2695.35,A++,1,0.44
+92,"Frigider Gorenje VW TRANSPORTER T1 OBRB153BL, 230 l, Clasa A+++, H 154 cm, Albastru",5549.99,A+++,1,0.44
+93,"Frigider cu o usa Daewoo FN-15B3RN1, 115 litri, H 87 cm, Clasa A++, Sticla alba",599.0,A++,0,0.44
+94,"Frigider cu doua usi AEG RDB72721AX, 259 l, Clasa A++, H 159 cm, Inox antiamprenta",1779.99,A++,0,0.44
+95,"Frigider cu o usa Zanussi ZRG16605WA, 153 l, Clasa A+, H 85 cm, Alb",899.99,A+,6,0.44
+96,"Frigider cu o usa Daewoo FN-102PRQ, 79 l, Clasa A+, H 71, Rosu",949.99,A+,4,0.44
+97,"Frigider Albatros FA11+, 82 l, Clasa A+, H 84 cm, 3 Ani garantie, Alb",519.99,A+,19,0.44
+98,"Frigider cu o usa Daewoo FN-15A2RNB, 118 l, Clasa A+, H 88 cm, Sticla neagra",949.99,A+,0,0.44
+99,"Frigider cu o usa Miele K 28202SD, 381 l, Clasa A++, DynaCool, Iluminare LED, H 185 cm, Argintiu",4699.99,A++,2,0.44
+100,"Frigider cu o usa incorporabil Bosch KIR31AF30, 172 l, Clasa A++, Control Touch, FreshSense, H 102.5 cm",2698.26,A++,0,0.44
+101,"Frigider cu doua usi NEI MRF-262D ix, SmartFrost, clasa A+, 262 l, dozator apa, H 176 cm, inox",1499.0,A+,0,0.44
+102,"Frigider minibar Crown CM-50B, capacitate 50l, usa de sticla, clasa A+, H 51 cm, negru",549.9,A+,1,0.44
+103,"Frigider incorporabil Electrolux ERN3211AOW, 319 l, Clasa A+, H 177 cm",2399.99,A+,4,0.44
+104,"Frigider cu doua usi MIDEA HD-606FWENWH, 463l, Total No Frost, Dozator Apa, Clasa A+, H 188 cm, Alb",2049.99,A+,0,0.44
+105,"Frigider minibar LDK BC 50, Clasa A+, Capacitate 52 L, H 48.7 cm, Alb",374.91,A+,4,0.44
+106,"Frigider minibar Crown CM-68B, capacitate 68l, usa de sticla, clasa A+, H 59 cm, negru",649.89,A+,0,0.44
+107,"Pachet Frigider cu doua usi Arctic AD54240P+, 223 l, Clasa A+, H 146.5, Alb si Set 7 caserole alimente cu capac Vanora, patrate, plastic",839.99,A+,1,0.44
+108,"Frigider cu doua usi Heinner HF-M207BKA+, 204 l, Clasa A+, Iluminare LED, Control mecanic, H 144 cm, Negru",899.99,A+,0,0.44
+109,"Frigider Albatros FA15+, 115 litri, 3 Ani garantie, H 84 cm, Alb",599.99,lipsa,29,0.44
+110,"Frigider cu doua usi NEO BCD-295 DA+, clasa A+, alb, 224 l, dozator apa, H 170 cm",1374.9,A+,0,0.44
+111,"Frigider cu doua usi Whirlpool W55TM 4110 W, 213 l, Clasa A+",1099.99,A+,0,0.44
+112,"Frigider cu o usa Heinner HF-100NHSA+, 93 l, Clasa A+, H 85 cm, Argintiu",648.99,A+,7,0.44
+113,"Frigider incorporabil, doua usi, Crown CBR-250 BI, A+, 250 l, H 177 cm",1799.9,lipsa,0,0.44
+114,"Pachet Frigider cu doua usi Arctic AD60290+, 278 l, Clasa A+, H 162, Alb si Set 7 caserole alimente cu capac Vanora, patrate, plastic",1049.98,A+,1,0.44
+115,"Frigider Albatros FA28+, 212 l, Clasa A+, H 143 cm, 3 Ani garantie, Alb",779.99,A+,34,0.44
+116,"Frigider cu o usa incorporabil Bosch KIR21AF30, 144 l, Clasa A++, Control Touch, FreshSense, H 88 cm",2299.99,A++,0,0.44
+117,"Frigider cu o usa incorporabil Bosch KIR41AF30, 211 l, Clasa A++, Control Touch, FresSense, H 122.5 cm",2589.99,A++,0,0.44
+118,"Mini frigider portabil, SOGO, 58W, capacitate 15l, adaptor priza auto 12V, functie incalzire, indicator LED,rosu",499.9,lipsa,0,0.44
+119,"Combina frigorifica Teka RMF 77920 SS, Free Standing, 4 usi, No frost, 445 l, A++, inox",6999.0,lipsa,0,0.44
+120,"Frigider cu o usa Heinner HF-N91SA+, 91 l, Clasa A+, Iluminare LED, H 84.2 cm, Silver",548.99,A+,0,0.16
+121,"Frigider cu o usa VORTEX VO1001 A+ Termostat, reglabil, Alb",728.99,lipsa,0,0.16
+122,"Frigider Albatros FA28++, 212 l, Clasa A++, H 143 cm, Alb",799.99,A++,2,0.16
+123,"Frigider cu o usa Candy CCOLS 5144WH, 250 l, Clasa A++, H 143 cm, Alb",999.99,A++,0,0.16
+124,"Frigider cu o usa Liebherr Confort K 3130, 297 l, Clasa A++, Iluminare LED, H 144.7 cm, Alb",1849.99,A++,0,0.16
+125,"Frigider minibar Heinner HMB-47NHSA+, 47 l, Clasa A+, H 51 cm, Argintiu",399.0,A+,2,0.16
+126,"Frigider cu doua usi Hansa FD 221.4, 208 l, Clasa A+, Control mecanic, H 143 cm, Alb",869.99,A+,1,0.16
+127,Pachet Minibar Samus SW060A+ si Cafetiera Samus Fantasy,435.18,lipsa,0,0.16
+128,"Frigider incorporabil Electrolux ERN1200FOW, 114 l, Clasa A+, H 82 cm",1299.99,A+,2,0.16
+129,"Frigider cu o usa Midea HS-121LNS, A+, 93 litri, Silver",599.99,lipsa,0,0.16
+130,"Combina Frigorifica Hotpoint, Cu Doua Usi, Cezo-XH8 T2I W",1941.99,lipsa,0,0.16
+131,"Frigider practic , cu congelator , clasa A+ , cu 1 usa , + 3 ani garantie",535.0,A+,0,0.16
+132,"Frigider cu o usa Midea HS-121LN, A+, 93 litri, Alb",599.99,lipsa,1,0.16
+133,"Frigider cu o usa incororabil Bosch KIR81AF30, 319 l, Clasa A++, Control Touch, FreshSense, H 177 cm",3599.99,A++,0,0.16
+134,"Frigider minibar Daewoo FN-063, 45 l, Clasa A+, H 51.1, Alb",549.99,A+,0,0.16
+135,"Frigider cu 2 usi Liebherr CBNPes 4858, Premium BioFresh NoFrost, clasa A+++, capacitate 344 l, otel inoxidabil",10098.99,A+++,1,0.16
+136,"Frigider cu o usa Zanussi ZRG15805WA, 136 l, Clasa A+, H 85 cm, Alb",899.99,A+,0,0.16
+137,"Frigider cu 1 usa Retro Exquisit RKS 325-16, 229 l, Clasa A++, H 144, Crem",1500.0,A++,1,0.16
+138,"Frigider Sharp SJXP700GSL, 578 l, Clasa A++, Ioni Plasmacluster, J-Tech Inverter, H 185 cm, Argintiu Sticla",4799.0,A++,1,0.16
+139,"Frigider minibar Heinner HMB-47NHBKA+, 47 l, Clasa A+, H 51 cm, Negru",439.98,A+,13,0.16
+140,"Frigider cu doua usi Candy Divo CVRDS 6174WH, 304 l, Iluminare LED, Ventilator, Clasa A++, H 175 cm, Avena",2699.99,A++,0,0.16
+141,"Frigider cu doua usi Liebherr CTel 2531, 233 l, SmartFrost, VarioSpace, Clasa A++, H 140.1 cm, Inox",1449.99,A++,0,0.16
+142,"Combina frigorifica Teka RFD 77820 GBK, Free Standing, 4 usi, No frost, 335 l, A++, Cristal Black",6999.0,lipsa,0,0.16
+143,"Frigider Indesit TIAA12, 309 l, Clasa A+, H 175 cm, Alb",1299.99,A+,26,0.16
+144,Pachet Frigider Albatros FA28+ si Cuptor electric Albatros A18B2,888.78,lipsa,0,0.16
+145,"Frigider cu 1 usa Retro, Exquisit RKS 325-16, 229 l, Clasa A++, H 144, Negru",1499.99,A++,1,0.16
+146,"Frigider cu doua usi Samus SW280A+, 212 l, Clasa A+, H 143 cm, Alb",779.99,A+,7,0.16
+147,"Frigider cu o usa Bosch KSV36BI3P, 348 l, Clasa A++, FreshSense, Iluminare LED, H 186 cm, Inox",3699.99,A++,0,0.16
+148,"Frigider cu 2 usi CANDY CDD 2145 E, 204 l, 143 cm, A+, alb",799.99,lipsa,0,0.16
+149,"Frigider cu o usa Heinner HF-N91SA+, 91 l, Clasa A+, Iluminare LED, H 84.2 cm, Argintiu",549.98,A+,0,0.16
+150,"Frigider cu doua usi LG, 312 l, Full Nofrost, Iluminare LED, Silver - GTB523PZCZD",2018.44,lipsa,5,0.16
+151,"Minibar Studio Casa, SC-MB 645 A+, 48 l, Clasa A+",399.0,A+,0,0.16
+152,"Frigider cu doua usi Candy Divo CVRDS 6174RH, 304 l, Iluminare LED, Ventilator, Clasa A++, H 175 cm, Rosu",2799.99,A++,0,0.16
+153,"Frigider cu 1 usa Retro, Exquisit RKS 325-16, 229 l, Clasa A++, H 144, Rosu",1499.99,A++,1,0.16
+154,"Frigider Minibar 46L, Clasa A+, MF46W",389.0,A+,1,0.16
+155,"Frigider Albatros FA20+, 155l, Clasa A+, H 123 cm, 3 Ani garantie, Alb",819.99,A+,13,0.16
+156,"Frigider cu o usa incorporabil Bosch KIL52AF30, 228 l, Clasa A++, H 140 cm",2779.99,A++,0,0.16
+157,Pachet Frigider Albatros FA11+ si Aspirator Albatros Sticky 80 Eco,667.76,lipsa,0,0.16
+158,Pachet Frigider Albatros FA20+ si Cuptor electric Albatros A18B2,927.18,lipsa,1,0.16
+159,"Frigider Candy CSSM 6182W, 287 l, A+, Alb",1370.0,A+,0,0.16
+160,"Frigider 1 usa 88L, clasa A+, Finlux GN1001",599.0,A+,0,0.16
+161,"Frigider incorporabil MIELE K 37472 iD, 60 cm",9750.0,lipsa,0,0.16
+162,Pachet Frigider Samus SW540NFA+ + Cuptor incorporabil Samus SC622G5 + Plita incorporabila Samus PSG-64SG3 White,2775.82,lipsa,0,0.16
+163,"Racitor cu o usa Exquisit KS 85-9 RVA+, Clasa A+, 82L, H 84.5 cm, Negru/Inox",649.0,A+,0,0.16
+164,"Frigider cu 1 usa Finlux GN1001A+, 88L",539.0,lipsa,1,0.16
+165,"Frigider cu doua usi Heinner HF-H212A+, 212 l, Clasa A+, H 143 cm, Alb",849.99,A+,70,0.16
+166,"Frigider cu o usa Heinner HF-250A+, 250 l, Clasa A+, H 144 cm, Alb",929.99,A+,17,0.16
+167,"Combina frigorifica, Smeg, rosu, FAB28RRD3",6781.1,lipsa,0,0.16
+168,"Frigider incorporabil Neff KI1413D40, 211 l, Clasa A+++, FreshSense, Touchcontrol, H 122 cm",4099.99,A+++,0,0.16
+169,"Frigider cu doua usi Studio Casa, DD400A+, 400 l, Latime 70 cm, Clasa energetica A+, H 173 cm, Usi reversibile, Alb",1399.9,A+,0,0.16
+170,"Frigider cu o usa Crown GN 265, fara congelator, 250 litri, Clasa A+, alb",1049.98,A+,0,0.16
+171,"Frigider cu doua usi Liebherr CT 2131, 196 l, Clasa A++, SmartFrost, H 124.1 cm, Alb",1349.99,A++,0,0.16
+172,"Frigider cu o usa incorporabil Bosch KUL15A65, 123 l, Clasa A++, H 82 cm",2259.99,A++,0,0.16
+173,"Frigider cu doua usi LDK LF 260, Clasa A+, Capacitate 276 L, H 159 cm, 5 ani garantie, Alb",849.0,A+,6,0.16
+174,"Frigider Liebherr KBbs 4350, Clasa A+++, BioFresh, Capacitate 367 l, Otel Negru",8499.0,A+++,0,0.16
+175,"Pachet Frigider cu doua usi Beko RDSA290M20XP, 278 l, Clasa A+, H 162 cm, Inox + Set 5 Boluri Sticla Heinner + Capace",1596.9,A+,0,0.16
+176,"Frigider Samus SW540NFA+, Full No Frost, 425 l, Clasa A+, Alb",1649.98,A+,0,0.16
+177,"Frigider Samus SW280A++, 212 l, Clasa A++, Alb",799.99,A++,0,0.16
+178,"Frigider cu 2 usi Retro, Exquisit, RKGC270/45-16, 208 l, Clasa A++, H 144, Negru",1789.0,A++,0,0.16
+179,"Frigider Heinner HF-V401NFXA+, 380 l, Clasa A+, No Frost, Control electronic, Iluminare LED, H 186 cm, Argintiu",1799.99,A+,1,0.16
+180,"Frigider Albatros FA23+, 182 l, Clasa A+, Alb",819.99,A+,0,0.2
+181,"Frigider cu o usa Candy CVRO 6174WH, 311 l, Iluminare LED, Ventilator, Clasa A++, Avena",2499.99,A++,0,0.2
+182,"Frigider cu o usa Liebherr Premium KBes 4350, 367 l, Clasa A+++, Display Touch, BluPerformance, SmartDevice, SoftSystem, H 185 cm, Inox",7999.0,A+++,0,0.2
+183,"Frigider Zanussi ZRA33103WA, 314 l, Clasa A+, H 154, Alb",1499.0,A+,0,0.2
+184,"Frigider Samus SX340A+, Clasa A+, 252 l, Inox",1049.98,A+,0,0.2
+185,Frigider cu 2 usi Whirlpool ARC2353W,1199.99,lipsa,0,0.2
+186,"Frigider cu 1 usa Retro Exquisit, RKS130-11A++, Capacitate 121l, Clasa A++, H 97.8 cm, Verde",1099.0,A++,0,0.2
+187,"Combina frigorifica Pyramis FSK196 Black Glass, total NO FROST, display LED cu Touch Control, iluminare LED, clasa A+, capacitate totala 317 lt",2899.99,A+,0,0.2
+188,"Frigider cu doua usi NEO BCG-260 DA+, clasa A+, 205 l, dozator apa, H 143 cm",1149.99,A+,0,0.2
+189,Pachet Frigider Albatros FA11+ si Cuptor electric Albatros A18B2,672.75,lipsa,0,0.2
+190,"Frigider Racitor pentru Vin, Capacitate 12 Sticle sau 33L, Iluminare Interioara",682.88,lipsa,2,0.2
+191,"Frigider minibar Crown CM-49B, capacitate 46l, clasa A+, H 51 cm, negru",499.9,A+,0,0.2
+192,Pachet Frigider Albatros FA28+ si Multiblender Albatros MR601A,888.78,lipsa,0,0.2
+193,"Frigider cu 2 usi Whirlpool T TNF 8211 OX, 423l, 180 cm, 6th sense function, digital display, A+ class, Inox",2456.0,lipsa,0,0.2
+194,"Frigider incorporabil Neff KI8513D30, 222 l, Clasa A++, FreshSense, Touchcontrol, H 140 cm",4499.99,A++,0,0.2
+195,"Frigider LDK LF 220, Clasa A+, Capacitate 238 L, H 143,5 cm, 5 ani garantie, Alb",919.99,A+,21,0.2
+196,"Frigider Samus SX540NFDA+, 425l, Clasa A+, Full No Frost, Inox",1849.99,A+,0,0.2
+197,"Frigider cu o usa Daewoo FN-153, 124 l, Clasa A+, H 91.5 cm, Alb",969.99,A+,21,0.2
+198,"Frigider cu 2 usi Retro, Exquisit, RKGC270/45-16, 208 l, Clasa A++, H 144, Rosu",1789.0,A++,0,0.2
+199,"Frigider incorporabil Electrolux ERN1300FOW, 126 l, Clasa A+, H 88 cm",1338.15,A+,2,0.2
+200,"Frigider cu 1 usa Retro Exquisit, RKS130-11A++, Capacitate 121l, Clasa A++, H 97.8 cm, Crem",1099.0,A++,0,0.2
+201,"Frigider Liebherr KBef 4310 Comfort BioFresh, Clasa A+++, capacitate 366 l, Alb",5099.0,A+++,0,0.2
+202,"Frigider 2 usi Liebherr CTN 3223, Comfort NoFrost, Clasa A++, capacitate 273 l, Alb",3043.95,A++,0,0.2
+203,"Frigider cu 2 usi incorporabil Liebherr ICUN 3324, 256 L, NoFrost, Clasa A++, Alb",4199.0,A++,0,0.2
+204,"Frigider cu doua usi Arctic AD70420N, Full No Frost, 367 l, H 172, Clasa A, Alb",1950.0,A,4,0.2
+205,"Mini Frigider Husky Highcube HUS-HC 166 Coca-Cola, Capacitate 115 L, Clasa A+, H 83,5 cm, Rosu",1881.0,A+,1,0.2
+206,"Mini Frigider Camry Auto si Home, Capacitate 20L, LCD, Usa Transparenta, 220/12V",545.0,lipsa,0,0.2
+207,"Mini frigider Trisa Frescolino Silver, 17L, Alimentare 220V si auto 12V",749.9,lipsa,0,0.2
+208,"Frigider cu doua usi Daewoo FN-340W, 252 l, Clasa A+, H 166 cm, Alb",1148.99,A+,1,0.2
+209,"Frigider Liebherr K 4310 Comfort, BioCool, Clasa A+++, capacitate 390 l, Alb",3799.0,A+++,0,0.2
+210,Pachet Frigider Samus SX340A+ si Espressor Samus Espressimo 20 Silver,1368.83,lipsa,0,0.2
+211,Pachet Frigider Albatros FA28++ si Cuptor electric Albatros A18B2,907.98,lipsa,0,0.2
+212,Pachet Frigider Albatros FA11+ si Aspirator Albatros Sticky 80 Eco Alb,667.76,lipsa,0,0.2
+213,"Frigider Albatros FA27+, Clasa A+, 212 litri, H 141.5 cm, 3 Ani garantie, Alb",779.99,A+,2,0.2
+214,"Frigider incorporabil Liebherr IKBP 3520, 301 L, SuperCool, Display MagicEye, BioFresh, Clasa A++, Alb",6499.0,A++,0,0.2
+215,"Pachet Frigider racitor Samus SRX450A++, 335l si Congelator Samus SCXE331A++",2698.99,lipsa,0,0.2
+216,"Pachet Frigider cu doua usi Arctic AD54240P+, 223 l, Clasa A+, H 146.5, Alb + Set 5 Boluri Sticla Heinner + Capace",1021.54,A+,0,0.2
+217,Pachet Frigider Samus SX340A+ si Aspirator cu filtrare prin apa Samus Aquafilter,1258.98,lipsa,0,0.2
+218,"Frigider Bosch KIV 86KF30, Clasa Energetica A++, Alb",3027.67,A++,0,0.2
+219,"Frigider incorporabil, o usa, Finlux FXN 2400 A+, 192 l, H 122.5 cm",1399.0,lipsa,0,0.2
+220,"Frigider incorporabil Liebherr IKB 3564 Comfort, 284 L, Clasa A++, Bio Fresh, SuperCool, Soft System Alb",6999.0,A++,0,0.2
+221,"Frigider LDK LF 220 Pearl, Clasa A+, Capacitate 238 L, H 143,5 cm, 5 ani garantie, Alb perlat",828.91,A+,1,0.2
+222,"Frigider cu o usa Crown GN 240, 192 l, Clasa A+, H 124 cm, Alb",1049.58,A+,1,0.2
+223,"Combina frigorifica Teka RFD 77820 S, Free Standing, 4 usi, No frost, 335 l, A++, inox",6999.0,lipsa,0,0.2
+224,"Frigider Samus SW280 , 212 L, clasa A+ , H 143 cm, garantie 6 ani",849.99,A+,1,0.2
+225,"Frigiderul-congelator, Sistemul Multi Air Flow / No Frost, Ecranul tactil, inox,562 l SIDE by SIDE NO FROST,",3923.05,lipsa,0,0.2
+226,"Mini Frigider Husky Coolcube HUS-CC 200 Becks, Capacitate 50 L, Clasa A+, H 51 cm, Verde",795.0,A+,0,0.2
+227,"Frigider incorporabil cu o usa Electrolux ERN2001BOW, 187 l, Clasa A+, H 122 cm, Usa reversibila, Congelator",1599.99,A+,1,0.2
+228,"Frigider racitor Samus SRX-450A++, 335 l, Clasa A++, Inox",1499.99,A++,0,0.2
+229,"Frigider Liebherr KB 4310 Comfort BioFresh, Clasa A+++, capacitate 366 l, Alb",4933.94,A+++,0,0.2
+230,"Frigider minibar Heinner HMB-42A+, 42 l, Clasa A+, H 51 cm , Alb",429.99,A+,67,0.2
+231,"Frigider cu o usa Liebherr TP 1724, 143 l, Clasa A+++, H 85 cm, Alb",1468.95,A+++,1,0.2
+232,"Frigider incorporabil ventilat RF1780, iluminare LED, Touch Control, functie Shopping, clasa A++, capacitate 319lt",3499.9,A++,0,0.2
+233,"Frigider cu 1 usa Retro, Exquisit RKS 325-16, 229 l, Clasa A++, H 144, Gri",1500.0,A++,1,0.2
+234,"Frigider 2 usi Retro SMEG FAB30RP1, Clasa A++, 229L, crem",10214.96,A++,0,0.2
+235,"Frigider Samus SX280A+, 212 l, Clasa A+, Inox",979.99,A+,0,0.2
+236,"Frigider cu o usa Daewoo FN-15A, 118 l, Clasa A+, H 88 cm, Sticla neagra",929.99,A+,8,0.2
+237,"Frigider incorporabil Liebherr IKF 3510, 325 L, SuperCool, LED, Clasa A++, Alb",4299.99,A++,0,0.2
+238,"Frigider incorporabil Liebherr IKB 3520 Comfort, 301 L, Clasa A++, Bio Fresh, SuperCool, Alb",5998.99,A++,0,0.2
+239,Pachet Frigider Albatros FA15+ si Cuptor electric Albatros A18B2,725.57,lipsa,0,0.2
+240,"Frigider cu congelator ,capacitate 87 litri,usa dreapta / stanga,",935.5,lipsa,1,0.12
+241,"Frigider Gorenje ORB152C, 260 l, Clasa A++, H 154 cm, Crem",4199.91,A++,4,0.12
+242,"Frigider Liebherr CMes 502, Clasa A+, capacitate 42 l, Otel Inoxidabil",5578.42,A+,0,0.12
+243,"Frigider cu doua usi Crown DF 276S, clasa A+, 212 l, H 143 cm, silver",999.99,A+,0,0.12
+244,"Frigider cu doua usi LDK LF 260 Pearl, Clasa A+, Capacitate 276 L, H 159 cm, 5 ani garantie, Alb perlat",919.91,A+,1,0.12
+245,"Frigider Gorenje R6192LX, 370 l, Clasa A++, H 185 cm, Inox",2499.0,A++,1,0.12
+246,Pachet Frigider Albatros FA28+ si Aspirator Albatros Sticky 80 Eco,883.78,lipsa,0,0.12
+247,"Frigider Samsung RT43K6330EF/ES, 440 l, Clasa A+, No frost, Twin Cooling Plus, Digital Inverter, Smart Convertible, Display, Iluminare LED, H 178.5 cm, Bej",3598.0,A+,3,0.12
+248,"Pachet Frigider cu doua usi Beko RDSE465K20W, 465 l, H 185 cm, Clasa A+, Alb + Set 5 Boluri Sticla Heinner + Capace",2320.24,A+,0,0.12
+249,"Frigider Liebherr K 3710, Clasa A+++, capacitate 342 l, Alb",3899.0,A+++,0,0.12
+250,"Frigider vertical bar cu 2 usi, 5 rafturi",7350.0,lipsa,0,0.12
+251,"Frigider cu doua usi incorporabil Exquisit EKGC 265/40-4.2, Clasa A+, H 144.5 cm, 207L, Alb",1099.0,A+,0,0.12
+252,"Mini Frigider Husky Highcube Becks's, Capacitate 115 L, Clasa A+, H 83,5 cm, Negru",1999.0,A+,0,0.12
+253,"Frigider cu 2 usi LG, 410 l, Clasa A++, Display LED - GTB583PZHZD",3479.0,A++,1,0.12
+254,Pachet Combina frigorifica Albatros CNFX47A++ si Masina de tocat Albatros MTA1500 cu accesoriu rosii,2024.79,lipsa,0,0.12
+255,"Frigider cu doua usi Studio Casa, DD212A+, 206 l, Clasa energetica A+, H 144 cm, Usi reversibile, Alb",790.0,A+,0,0.12
+256,"Combina frigorifica Pyramis FSK196 Cream Glass, total NO FROST, display LED cu Touch Control, iluminare LED, clasa A+, capacitate totala 317 lt",2899.99,A+,0,0.12
+257,"Racitor cu o usa Exquisit KS 16-9RVA ++ MS, Clasa A++, H 88 cm, 132L, Negru",1089.0,A++,0,0.12
+258,"Frigider cu 2 usi Severin Color editions KS 9796, Clasa A++, 173 KWh/an, 212L, Verde",1879.0,A++,1,0.12
+259,Pachet Frigider Albatros FA28++ si Aspirator Albatros Sticky 80 Eco Alb,902.98,lipsa,0,0.12
+260,"Racitor Liebherr Confort K 3120, 301 l, Comfort GlassLine, Clasa A+, H 144 cm, Alb",2249.0,A+,1,0.12
+261,"Frigider incorporabil Exquisit UKS140-1.1, Capacitate 133 l, Clasa A+, H 82 cm",1049.99,A+,0,0.12
+262,"Frigider cu doua usi incorporabil Beko BDSA250K2S, 220 l, Clasa A+, H 144.8 cm",1359.99,A+,2,0.12
+263,"Frigider cu 1 usa GORENJE R6192LW, 368 l, 185 cm, A++, alb",3265.0,lipsa,0,0.12
+264,"Frigider cu o Usa, Clasa A+, Congelator, Volum 88 L, Rafturi pentru Depzitare, Design Compact, Culoare Alb",665.0,A+,0,0.12
+265,"Frigider cu o usa Zanussi HBR-ZRG16605WA, 153 l, Clasa A+, H 85 cm, Alb",1049.0,A+,0,0.12
+266,"Frigider incorporabil Liebherr IKB 3524, 284 L, SuperCool, BioFresh, Clasa A++, Alb",5499.0,A++,0,0.12
+267,"Frigider cu o usa Crown, DF-120A, Clasa A+, 90 litri, alb",676.9,A+,0,0.12
+268,"Frigider cu 1 usa Retro Exquisit, RKS130-11A++, Capacitate 121l, Clasa A++, H 97.8 cm, Roz",1099.0,A++,0,0.12
+269,"Frigider cu o usa Hotpoint SH6 1Q XRD, 321 l, Clasa A+, H 167 cm, Inox",2595.0,A+,0,0.12
+270,"Frigider 2 usi Liebherr CTN 3663, Premium NoFrost, Clasa A++, Capacitate 306 l, Alb",3598.99,A++,0,0.12
+271,"Frigider Mini bar, usa sticla, functie de reglarea temperaturii, iluminat interior, usa: dreapta / stanga 28 l, 60 W, MPM-30-MBV-02",876.87,lipsa,0,0.12
+272,"Frigider cu o usa incorporabil Liebherr Confort UIK 1514, 119 l, Clasa A++, SuperCool, H 88 cm",3599.0,A++,0,0.12
+273,Pachet Frigider Albatros FA28+ si Aspirator Albatros Sticky 80 Eco Alb,883.78,lipsa,0,0.12
+274,"Frigider cu o usa Crown DF-11A, 82 litri, Clasa A+, alb",699.9,A+,0,0.12
+275,"Frigider cu doua usi Crown CBR-310D, dispenser apa, 312 litri, A+, alb",1649.99,lipsa,0,0.12
+276,"Pachet Frigider cu doua usi Arctic AD54240+, 223 l, Clasa A+, H 145.8 cm, Alb + Set 5 Boluri Sticla Heinner + Capace",1322.9,A+,0,0.12
+277,Pachet Frigider Albatros FA28++ si Aspirator cu filtrare prin apa Albatros Aqualtys,1067.98,lipsa,0,0.12
+278,Pachet Frigider Albatros FA11+ si Aspirator cu filtrare prin apa Albatros Aqualtys,832.75,lipsa,0,0.12
+279,"Frigider minibar Crown CM-48A, capacitate 46l, clasa A+, H 51 cm, alb",479.9,A+,0,0.12
+280,"Frigider cu 1 usa GORENJE R6192FX, 368 l, 185 cm, A++, inox",3199.0,lipsa,0,0.12
+281,Pachet Frigider Albatros FA54NFX+ si Masina de spalat Albatros AWM1482A+++,2842.61,lipsa,0,0.12
+282,"Frigider cu o usa incorporabil Liebherr UIKo 1560, 124 l, Clasa A+, H 88 cm, Alb",4599.99,A+,0,0.12
+283,"Frigider Liebherr Kef 3710 Comfort, Clasa A+++, capacitate 342 l, Argintiu",4499.0,A+++,0,0.12
+284,Pachet Frigider Samus SW280A++ si Aspirator cu filtrare prin apa Samus Aquafilter,1028.58,lipsa,0,0.12
+285,Pachet Frigider Albatros FA54NFX+ si Masina de spalat Albatros AWM1272A++,2668.99,lipsa,0,0.12
+286,"Frigider Samus SW340A+, Clasa A+, 252 litri, H 163 cm, Alb",949.99,A+,3,0.12
+287,"Frigider cu 2 usi incorporabil Liebherr ICUS 2924, 241 L, SmartFrost, Clasa A++, Alb",4199.0,A++,0,0.12
+288,Frigider profesional Hendi Profi Line cu 2 usi 900 L 1100x540x(H)1380 mm otel inoxidabil -2˚/8˚C 400 W 6 rafturi 525x530mm incluse,8982.48,lipsa,0,0.12
+289,"Frigider incorporabil sub blat Liebherr UK 1524, A+, 132 L, 38 dB, Alb",2899.0,lipsa,0,0.12
+290,"Pachet Frigider cu doua usi Beko RDNE535E20DZM, 471 l, Clasa A+, H 193, NeoFrost, Gri Sidef + Set 5 Boluri Sticla Heinner + Capace",3144.08,A+,0,0.12
+291,Pachet Frigider Albatros FA28++ si Multiblender Albatros MR601A,907.97,lipsa,0,0.12
+292,"Frigider incorporabil Liebherr IKS 1624, 134 L, SuperCool, A++, Alb",4499.0,lipsa,0,0.12
+293,"Frigider Husky RetroCube Coca-Cola, 92 L + 15 L (congelator), A++, Rosu",3389.99,lipsa,0,0.12
+294,"Frigider incorporabil Liebherr IKB 3560 Comfort, 301 L, Clasa A++, Bio Fresh, SuperCool, Soft System Alb",6999.0,A++,0,0.12
+295,"Minifrigider portabil Camry CR 8062, 20 l, Alimentare 220V si auto 12V, Argintiu",630.0,lipsa,0,0.12
+296,"Frigider Liebherr Premium BP 2850, 161 L, Blu Performance, BioFresh, Smart Device, Soft System, Clasa A+++",5899.0,A+++,0,0.12
+297,"Mini Frigider Husky Coolcube HUS-CC 165 Coca-Cola, Capacitate 50 L, Clasa A+, H 51 cm, Rosu",998.99,A+,1,0.12
+298,"Frigider incorporabil cu o usa Electrolux ERN2201BOW, 207 l, Clasa A+, H 122 cm, Usa reversibila",1790.0,A+,1,0.12
+299,"Frigider cu 2 usi Beko RDSA180K20W, 176 l, A+, Alb",1186.37,A+,0,0.12
+300,Pachet Frigider Albatros FA28+ si Storcator Albatros Fresh Plus,847.79,lipsa,0,0.2
+301,Pachet Minibar Samus SW060A+ si Fierbator Samus Prestige,429.19,lipsa,0,0.2
+302,"Frigider Liebherr TPesf 1714 Comfort, Clasa A++, capacitate 143 l, Argintiu",1949.0,A++,0,0.2
+303,Pachet Minibar Samus SW060A+ si Fierbator Samus Prestige Red,439.18,lipsa,0,0.2
+304,"Frigider incorporabil Liebherr IKBP 3564, 284 L, SuperCool, BioFresh, SoftSystem, Clasa A+++, Alb",8299.0,A+++,0,0.2
+305,"Frigider 2 usi Liebherr CBN 4815, Comfort BioFresh NoFrost, Clasa A+++, capacitate 343 l, Alb",5299.0,A+++,0,0.2
+306,"Frigider Albatros FA29+ , 212 l, Clasa A+, Alb",809.99,A+,0,0.2
+307,"Frigider cu o usa ELECTROLUX ERF1904FOW, 184l, A+, Alb",1464.34,A+,0,0.2
+308,Pachet Frigider Racitor Samus SRX-450A++ si Multiblender Samus SMB800X,1579.97,lipsa,0,0.2
+309,"Racitor de vin incorporabil sub blat ""deep plinth"", Dunavox, DX-7.20WK/DP, 7 sticle",2286.14,lipsa,0,0.2
+310,"Frigider Liebherr Ksl 2630, Clasa A++, Volum 248 l, Silver",2361.45,A++,0,0.2
+311,"Frigider cu 2 usi Electrolux EJ11800AW, clasa A+, 173 l, usi reversibile, Alb",1408.71,A+,0,0.2
+312,Pachet Frigider Albatros FA28++ si Aspirator Albatros Sticky 80 Eco,902.98,lipsa,0,0.2
+313,"Frigider LDK BC 100, Clasa A+, Capacitate 93 L, H 85 cm, 5 ani garantie, Alb",1199.0,A+,12,0.2
+314,"Frigider Liebherr KB 4350, Clasa A+++, BioFresh, Capacitate 367 l, Alb",6699.0,A+++,0,0.2
+315,"Frigider 2 usi Hitachi R-VG660PRU7(GBK), No Frost, A++, 550L, inaltime 183,5 cm, negru",4399.0,lipsa,0,0.2
+316,Pachet Frigider Albatros FA28+ si Aspirator cu filtrare prin apa Albatros Aqualtys Portocaliu,1045.26,lipsa,0,0.2
+317,"Frigider cu o usa Liebherr TP 1720, 145 L, Clasa A+++, H 85 cm, Alb",1468.95,A+++,1,0.2
+318,"Frigider standard cu o usa Gorenje R6151bw, Clasa A+, H145 cm, Alb",1942.05,A+,0,0.2
+319,"Dulap frigorific profesional inox, 600 litri VBDP700A",7382.0,lipsa,0,0.2
+320,Pachet Frigider Albatros FA27+ si Masina de tocat Albatros MTA1500 cu accesoriu rosii,968.79,lipsa,0,0.2
+321,"Frigider Zanussi ZRG 15807 WA, 136 l, Clasa A++, Alb",999.0,A++,0,0.2
+322,"Frigider incorporabil Beko BU1152, A+, 123 l, garnitura antibacteriana, Alb",1443.57,lipsa,1,0.2
+323,"Frigider cu doua usi Liebherr CTPesf 3016, 278 l, Clasa A++, H 161 cm, Inox",2833.95,A++,0,0.2
+324,"Frigider cu 1 usa Zanussi ZRA40100WA, Clasa A +, Capacitate 395L, 6 rafturi, Alb",2004.77,A,0,0.2
+325,"Frigider cu doua usi NEI MRF-250 DB, clasa A+, 224 l, dozator apa, H 170 cm, negru",2399.0,A+,0,0.2
+326,"Frigider incorporabil Liebherr IK 2320 Comfort, 217 L, Clasa A++, Bio Cool, SuperCool, Alb",4699.0,A++,0,0.2
+327,"Frigider Incorporabil TEKA TKI2 300, Capacitatea 310 l, Clasa A+",3283.5,A+,0,0.2
+328,"Frigider cu o usa Liebherr Confort K 4220, 383 l, Clasa A+, SuperCool, Alb",2998.0,A+,2,0.2
+329,Pachet Frigider Albatros FA15+ si Storcator Albatros Fresh Plus,684.58,lipsa,0,0.2
+330,"Frigider cu 2 usi Severin KS 9950, Clasa A++, 173 KWh/an, 212L, Negru mat",2499.0,A++,0,0.2
+331,Pachet Frigider Albatros FA29+ si Storcator Albatros Fresh Plus,876.59,lipsa,0,0.2
+332,Pachet Frigider Samus SW280A++ si Espressor Samus Espressimo 20 Silver,1014.58,lipsa,0,0.2
+333,"Frigider Gorenje ORB152R, 260 l, Clasa A++, H 154 cm, Bordo",4199.91,A++,0,0.2
+334,"Pachet Frigider Heinner HF-270A+, 270 l, Clasa A+, H 170 cm, Alb + Set 5 Boluri Sticla Heinner + Capace",1120.71,A+,0,0.2
+335,"Frigider cu doua usi Arctic AD70410+, 397 l, Clasa A+, 170.5 cm inaltime, 70 cm latime, Alb",2699.0,A+,3,0.2
+336,"Frigider incorporabil Liebherr SUIB 1550, 80 L, BioFresh, A+++, SoftSystem, Alb",5199.0,lipsa,0,0.2
+337,"Frigider cu 2 usi Severin Retro RKG 8934, Clasa A++, 172 KWh/an, 210L, turcoaz",2499.0,A++,0,0.2
+338,"Frigider profesional de bar Moratti, 130 l 230 V",3016.22,lipsa,0,0.2
+339,Pachet Frigider Albatros FA15+ si Aspirator Albatros Sticky 80 Eco,720.57,lipsa,0,0.2
+340,"Frigider cu doua usi Bosch KDN46VI30, 374 l, No Frost, FreshSense, Clasa A++, H 186 cm, Inox",4799.0,A++,0,0.2
+341,"Frigider Gorenje RB3091ANW, 84 l, 84.5 cm, Alb",835.0,lipsa,0,0.2
+342,"Frigider incorporabil Liebherr IKP 2360, 216 L, SuperCool, SoftSystem, Clasa A+++, Alb",5599.0,A+++,0,0.2
+343,Pachet Frigider Albatros FA23+ si Plita electrica AP10W,847.18,lipsa,0,0.2
+344,Pachet Frigider Albatros FA15+ si Multiblender Albatros MR601A,725.55,lipsa,0,0.2
+345,Pachet Frigider Racitor Samus SRX-450A++ si Aspirator cu filtrare prin apa Samus Aquafilter,1738.97,lipsa,0,0.2
+346,"Frigider mini bar fara congelator,pentru camere de hotel,pensiuni, negru,60 W,MPM-30-MBS-01",795.8,lipsa,0,0.2
+347,Pachet Frigider Samus SR290A+ si Storcator Samus Slowstar,1385.03,lipsa,0,0.2
+348,"Frigider incorporabil Liebherr, Gama Premium, Clasa A+++",5119.0,A+++,0,0.2
+349,Pachet Frigider Samus SR290A+ si Aspirator cu filtrare prin apa Samus Aquafilter,1354.03,lipsa,0,0.2
+350,Pachet Frigider Albatros FA20+ si Masina de spalat Albatros AWM1272A++,1776.19,lipsa,0,0.2
+351,Pachet Frigider Samus SR290A+ si Multiblender Samus SMB800X,1195.03,lipsa,0,0.2
+352,"Frigider incorporabil Liebherr UIKo 1550, 124 l, Clasa A++, Alb",4899.0,A++,0,0.2
+353,"Frigider de bar 2 usi vitrat Moratti, 210 litri",6199.04,lipsa,0,0.2
+354,"Frigider cu doua usi Liebherr CTP 3016, 278 l, Clasa A++, H 161 cm, Alb",2149.0,A++,0,0.2
+355,"Frigider cu o usa Liebherr Confort K 2814, 250 l, Clasa A++, H 140.2, Alb",1799.0,A++,0,0.2
+356,"Frigider incorporabil Neff KI2823F30, 286 l, Clasa A++, Touchcontrol, Afişaj digital, H 177 cm",3198.99,A++,0,0.2
+357,Pachet Frigider Albatros FA29+ si Masina de spalat Albatros AWM1272A++,1766.59,lipsa,0,0.2
+358,Pachet Frigider Albatros FA15+ si Aspirator Albatros Sticky 80 Eco Alb,720.57,lipsa,0,0.2
+359,Pachet Frigider Samus SW280A+ si Multiblender Samus SMB800X,869.58,lipsa,0,0.2
+360,"Frigider 2 usi Retro SMEG FAB30RNE1, Clasa A++, 229L, negru",12999.0,A++,0,0.11
+361,"Frigider cu o usa incorporabil AEG SKB58211AF, 133 l, Clasa A+, H 82 cm",2499.0,A+,0,0.11
+362,"Minibar, capacitate 45 litri, putere 75 W, Hotel Project",1006.74,lipsa,0,0.11
+363,"Frigider cu o usa Bosch KSV33VW3P, 324 L, Clasa A++, H 176 cm, Alb",2799.0,A++,0,0.11
+364,Pachet Frigider Albatros FA15+ si Aspirator cu filtrare prin apa Albatros Aqualtys Portocaliu,889.94,lipsa,0,0.11
+365,Pachet Frigider Albatros FA29+ si Multiblender Albatros MR601A,917.57,lipsa,0,0.11
+366,Pachet Frigider Albatros FA27+ si Multiblender Albatros MR601A,888.78,lipsa,0,0.11
+367,Pachet Frigider Albatros FA54NFX+ si Aspirator Albatros Sticky 80 Eco Alb,1814.98,lipsa,0,0.11
+368,Pachet Frigider Albatros FA11+ si Storcator Albatros Fresh Plus,631.76,lipsa,0,0.11
+369,Pachet Frigider Albatros FA27+ si Aspirator Albatros Sticky 80 Eco,883.78,lipsa,0,0.11
+370,Pachet Frigider Albatros FA23+ si Storcator Albatros Fresh Plus,886.19,lipsa,0,0.11
+371,Pachet Frigider Albatros FA54NFX+ si Aspirator Albatros Sticky 80 Eco,1814.98,lipsa,0,0.11
+372,Pachet Frigider Racitor Samus SRX-450A++ si Espressor Samus Espressimo 20 Silver,1724.98,lipsa,0,0.11
+373,Pachet Frigider Samus SW280A++ si Multiblender Samus SMB800X,869.58,lipsa,0,0.11
+374,Pachet Frigider Samus SW280A+ si Espressor Samus Espressimo 20 Silver,1014.58,lipsa,0,0.11
+375,"Frigider cu 1 usa Amica FC3616.3DFX, A+, 350 l, NoFrost, Inox",2895.4,lipsa,0,0.11
+376,Pachet Frigider Albatros FA54NFX+ si Masina de tocat Albatros MTA1500 cu accesoriu rosii,1899.99,lipsa,0,0.11
+377,"Frigider cu 2 usi Beko DSA240K21W, 223 l, A+, Alb",1271.68,A+,0,0.11
+378,Frigider ARKTIC by Hendi Profi Line - cu 2 usi - 1300 lt,9772.28,lipsa,0,0.11
+379,Pachet Frigider Samus SW340A+ si Espressor Samus Espressimo 20 Silver,1216.18,lipsa,0,0.11
+380,Pachet Frigider Samus SR450A+ si Multiblender Samus SMB800X,1435.97,lipsa,0,0.11
+381,"Mini frigider incorporabil Gorenje RBIU6092AW, 126 l, A++, Alb",1860.82,lipsa,0,0.11
+382,"Frigider Electrolux ERF3307AOX, 314 litri, Clasa A+, Inox",2208.1,A+,0,0.11
+383,"Frigider din inox, cu congelator,222 l net,MPM-366-FF-21",2282.41,lipsa,0,0.11
+384,Pachet Frigider Albatros FA20+ si Masina de spalat Albatros AWM1482A+++,1949.82,lipsa,0,0.11
+385,"Dulap frigorific, capacitate bruta 361 litri, putere 0.3kW, Vestfrost",4981.64,lipsa,0,0.11
+386,"Frigider cu doua usi Hotpoint ENXTYH 19322 FWL, 472 l, Clasa A++, No Frost, Display Full Touch, H 190.5, Inox",4489.0,A++,1,0.11
+387,Pachet Frigider Albatros FA28++ si Mixer Albatros MXA450W,867.99,lipsa,0,0.11
+388,Pachet Frigider Albatros FA20+ si Aspirator Albatros Sticky 80 Eco Alb,922.18,lipsa,0,0.11
+389,Pachet Frigider Albatros FA54NFX+ si Aspirator cu filtrare prin apa Albatros Aqualtys,1979.98,lipsa,0,0.11
+390,Pachet Frigider Albatros FA28+ si Masina de spalat Albatros AWM1272A++,1737.79,lipsa,0,0.11
+391,Pachet Frigider Samus SW540NFA+ si Multiblender Samus SMB800X,1742.23,lipsa,0,0.11
+392,Pachet Frigider Samus SR450A+ si Aspirator cu filtrare prin apa Samus Aquafilter,1595.09,lipsa,0,0.11
+393,Frigider cu doua usi Heinner HF-V240A+,919.99,lipsa,0,0.11
+394,Pachet Frigider Albatros FA20+ si Aspirator Albatros Sticky 80 Eco,922.18,lipsa,0,0.11
+395,Pachet Frigider Albatros FA27+ si Storcator Albatros Fresh Plus,847.79,lipsa,0,0.11
+396,Pachet Frigider Albatros FA54NFX+ si Storcator Albatros Fresh Plus,1778.99,lipsa,0,0.11
+397,Pachet Frigider Racitor Samus SRX-450A++ si Storcator Samus Slowstar,1769.97,lipsa,0,0.11
+398,Pachet Frigider Samus SW540NFA+ si Espressor Samus Espressimo 20 Silver,1887.23,lipsa,0,0.11
+399,Pachet Frigider Samus SW540NFA+ si Aspirator cu filtrare prin apa Samus Aquafilter,1902.18,lipsa,0,0.11
+400,"Frigider incorporabil cu 2 usi Electrolux EJN2301AOW, A+, 224 l, Alb",1954.9,lipsa,0,0.11
+401,Pachet Frigider Samus SX340A+ si Multiblender Samus SMB800X,1223.83,lipsa,0,0.11
+402,Pachet Frigider Albatros FA23+ si Aspirator cu filtrare prin apa Albatros Aqualtys,1087.18,lipsa,0,0.11
+403,Pachet Frigider Albatros FA27+ si Aspirator cu filtrare prin apa Albatros Aqualtys Portocaliu,1047.38,lipsa,0,0.11
+404,"Frigider BOSCH Kil42vf30, 195 l, Clasa A++, H 122.1, Alb",2935.51,A++,0,0.11
+405,Pachet Frigider Samus SR290A+ si Espressor Samus Espressimo 20 Silver,1340.04,lipsa,0,0.11
+406,Pachet Frigider Samus SW340A+ si Storcator Samus Slowstar,1261.19,lipsa,0,0.11
+407,"Frigider cu o usa incorporabil Bosch KIR24V21FF, A+, 221 l, Alb",2068.99,lipsa,0,0.11
+408,Pachet Frigider Albatros FA23+ si Masina de spalat Albatros AWM1272A++,1776.19,lipsa,0,0.11
+409,Pachet Frigider Albatros FA29+ si Mixer Albatros MXA450W,877.59,lipsa,0,0.11
+410,Pachet Frigider Albatros FA23+ si Aspirator Albatros Sticky 80 Eco Alb,922.18,lipsa,0,0.11
+411,Pachet Frigider Albatros FA28++ si Aspirator cu filtrare prin apa Albatros Aqualtys Portocaliu,1104.97,lipsa,0,0.11
+412,"Frigider Incorporabil TEKA TKI4 215, Capacitatea 210 l, Congelator ****, Clasa A++",2713.1,A++,0,0.11
+413,Pachet Frigider Albatros FA15+ si Masina de spalat Albatros AWM1272A++,1466.29,lipsa,0,0.11
+414,Pachet Frigider Albatros FA20+ si Aspirator cu filtrare prin apa Albatros Aqualtys,1087.18,lipsa,0,0.11
+415,"Frigider cu congelator,reglarea temperaturii,dezghetare manuala,85 W,MPM-46-CJ-03",746.51,lipsa,0,0.11
+416,Pachet Frigider Albatros FA28++ si Storcator Albatros Fresh Plus,935.98,lipsa,0,0.11
+417,Pachet Frigider Albatros FA27+ si Masina de spalat Albatros AWM1272A++,1737.79,lipsa,0,0.11
+418,"Frigider Finlux, volum 216 l , 2 usi , Clasa A+",835.99,A+,0,0.11
+419,"Frigider Albatros FA54NFX+, No-Frost, Clasa A+, 425 litri, H 178 cm, Inox",1789.99,A+,8,0.11
+420,"Frigider cu 2 usi Severin Retro RKG 8931, Clasa A++, 172 KWh/an, 210L, visiniu",2499.0,A++,0,0.1
+421,"Mini Frigider Husky Highcube HUS-HC 203 AC-DC, Capacitate 115 L, Clasa A+, H 83,5 cm, Negru",1904.0,A+,0,0.1
+422,Pachet Frigider Samus SW540NFA+ si Storcator Samus Slowstar,1932.23,lipsa,0,0.1
+423,Pachet Frigider Albatros FA29+ si Aspirator cu filtrare prin apa Albatros Aqualtys Portocaliu,1085.78,lipsa,0,0.1
+424,Pachet Frigider Samus SR450A+ si Espressor Samus Espressimo 20 Silver,1580.97,lipsa,0,0.1
+425,Pachet Frigider Albatros FA27+ si Aspirator cu filtrare prin apa Albatros Aqualtys,1048.78,lipsa,0,0.1
+426,Pachet Frigider Albatros FA28+ si Aspirator cu filtrare prin apa Albatros Aqualtys,1048.78,lipsa,0,0.1
+427,Pachet Frigider Albatros FA28+ si Masina de tocat Albatros MTA1500 cu accesoriu rosii,968.79,lipsa,0,0.1
+428,Pachet Frigider Albatros FA11+ si Aspirator cu filtrare prin apa Albatros Aqualtys Portocaliu,826.59,lipsa,0,0.1
+429,Pachet Frigider Albatros FA20+ si Storcator Albatros Fresh Plus,886.19,lipsa,0,0.1
+430,"Frigider Liebherr K 2630, Clasa A++, capacitate 248 l, Alb",2203.94,A++,0,0.1
+431,Pachet Frigider Albatros FA15+ si Masina de spalat Albatros AWM1482A+++,1748.21,lipsa,0,0.1
+432,Pachet Frigider Albatros FA11+ si Masina de spalat Albatros AWM1482A+++,1695.38,lipsa,0,0.1
+433,"Frigider incorporabil, Whirlpool ARG585/A+, clasa A+, 146 l, 3 rafturi, alb",1477.1,A+,0,0.1
+434,Pachet Frigider Albatros FA27+ si Aspirator Albatros Sticky 80 Eco Alb,883.78,lipsa,0,0.1
+435,Pachet Frigider Albatros FA54NFX+ si Aspirator cu filtrare prin apa Albatros Aqualtys Portocaliu,2063.1,lipsa,0,0.1
+436,"Frigider cu 2usi LDK, LF 260, Clasa A+, 276 L, H 159 cm, Alb",969.0,A+,0,0.1
+437,Pachet Frigider Samus SW280A+ si Aspirator cu filtrare prin apa Samus Aquafilter,1023.98,lipsa,0,0.1
+438,Pachet Frigider Samus SX340A+ si Storcator Samus Slowstar,2035.16,lipsa,0,0.1
+439,Pachet Frigider Albatros FA23+ si Multiblender Albatros MR601A,927.16,lipsa,0,0.1
+440,Pachet Frigider Albatros FA29+ si Aspirator Albatros Sticky 80 Eco Alb,912.58,lipsa,0,0.1
+441,Pachet Frigider Albatros FA29+ si Aspirator Albatros Sticky 80 Eco,912.58,lipsa,0,0.1
+442,Pachet Frigider Albatros FA28++ si Masina de spalat Albatros AWM1272A++,1756.99,lipsa,0,0.1
+443,Pachet Frigider Albatros FA15+ si Masina de tocat Albatros MTA1500 cu accesoriu rosii,805.58,lipsa,0,0.1
+444,"Combina frigorifica Hitachi R-V610PRU7(BSL), No Frost, A++, 510L, inaltime 176 cm, Argintiu",3999.0,lipsa,0,0.1
+445,Pachet Frigider Albatros FA29+ si Masina de spalat Albatros AWM1482A+++,1940.21,lipsa,0,0.1
+446,"Pachet frigider Samus SW280A+, 212l si Aragaz Samus SM550ANS",2119.54,lipsa,0,0.1
+447,Pachet Frigider Albatros FA23+ si Aspirator Albatros Sticky 80 Eco,922.18,lipsa,0,0.1
+448,"Frigider Zanussi ZRA17800WA, 184 l, Clasa A+, H 105 cm, Alb",1105.19,A+,0,0.1
+449,Pachet Frigider Albatros FA28+ si Masina de spalat Albatros AWM1482A+++,1911.41,lipsa,0,0.1
+450,"Frigider cu o usa LDK F 235, Clasa A+, Capacitate 230 l, Alb",1099.0,A+,0,0.1
+451,Pachet Frigider Albatros FA23+ si Masina de tocat Albatros MTA1500 cu accesoriu rosii,1007.19,lipsa,0,0.1
+452,Pachet Frigider Albatros FA27+ si Masina de spalat Albatros AWM1482A+++,1911.41,lipsa,0,0.1
+453,"Frigider cu 1 usi Gorenje R6191DW, A+, 368 l, DynamicCooling, Alb",2373.48,lipsa,0,0.1
+454,Pachet Frigider Albatros FA11+ si Masina de spalat Albatros AWM1272A++,1521.76,lipsa,0,0.1
+455,Pachet Frigider Albatros FA28++ si Masina de spalat Albatros AWM1482A+++,1930.61,lipsa,0,0.1
+456,Pachet Frigider Samus SW340A+ si Multiblender Samus SMB800X,1071.18,lipsa,0,0.1
+457,Pachet Frigider Albatros FA23+ si Aspirator cu filtrare prin apa Albatros Aqualtys Portocaliu,1076.18,lipsa,0,0.1
+458,"Frigider LDK LF 260 Black, Clasa A+, Capacitate 245 l, H 163 cm, 5 ani garantie, Negru",2009.0,A+,1,0.1
+459,Pachet Frigider Albatros FA54NFX+ si Mixer Albatros MXA450W,1779.99,lipsa,0,0.1
+460,"Frigider Albatros FA10+, Clasa A+, 82 litri, H 84 cm, 3 Ani garantie, Alb",1199.0,A+,3,0.1
+461,Pachet Frigider Albatros FA28++ si Masina de tocat Albatros MTA1500 cu accesoriu rosii,987.99,lipsa,0,0.1
+462,Pachet Frigider Albatros FA29+ si Masina de tocat Albatros MTA1500 cu accesoriu rosii,997.59,lipsa,0,0.1
+463,Pachet Frigider Albatros FA15+ si Mixer Albatros MXA450W,685.58,lipsa,0,0.1
+464,Pachet Frigider Albatros FA15+ si Aspirator cu filtrare prin apa Albatros Aqualtys,885.57,lipsa,0,0.1
+465,Pachet Frigider Albatros FA20+ si Aspirator cu filtrare prin apa Albatros Aqualtys Portocaliu,1049.31,lipsa,0,0.1
+466,Pachet Frigider Albatros FA27+ si Cuptor electric Albatros A18B2,888.78,lipsa,0,0.1
+467,"Frigider cu 2 usi SHARP SJ-XG740GBK, 600 l, 187 cm, A++, negru",6499.0,lipsa,0,0.1
+468,Frigider AMICA VKS 15694 W,699.0,lipsa,0,0.1
+469,Pachet Frigider Samus SW280A+ si Storcator Samus Slowstar,1059.58,lipsa,0,0.1
+470,Pachet Frigider Albatros FA20+ si Mixer Albatros MXA450W,887.19,lipsa,0,0.1
+471,Pachet Frigider Samus SW340A+ si Aspirator cu filtrare prin apa Samus Aquafilter,1230.19,lipsa,0,0.1
+472,Pachet Frigider Albatros FA23+ si Masina de spalat Albatros AWM1482A+++,1949.82,lipsa,0,0.1
+473,"Frigider Liebherr CTP 3316, Clasa A++, 312 l, Alb",2449.0,A++,0,0.1
+474,"Frigider cu doua usi Bosch KDN46AI22, No Frost, 366 l, Clasa A+, H 186 cm, Inox",5069.4,A+,0,0.1
+475,Pachet Frigider Albatros FA29+ si Aspirator cu filtrare prin apa Albatros Aqualtys,1077.58,lipsa,0,0.1
+476,Pachet Frigider Samus SW280A++ si Storcator Samus Slowstar,1059.58,lipsa,0,0.1
+477,Pachet Frigider Albatros FA54NFX+ si Cuptor electric Albatros A18B2,1819.99,lipsa,0,0.1
+478,"Frigider MPM 99-CJ-09, Clasa A+, Alb",821.41,A+,0,0.1
+479,Pachet Frigider Albatros FA20+ si Masina de tocat Albatros MTA1500 cu accesoriu rosii,1007.19,lipsa,0,0.1
+480,Pachet Frigider Albatros FA54NFX+ si Multiblender Albatros MR601A,1819.97,lipsa,0,0.23
+481,"Frigider Husky RetroCube Coke, A++, 115 L, Crem",2217.99,lipsa,0,0.23
+482,"Frigider Electrolux EJ2801AOW2, 265 l, Clasa A+, H 159 cm, Alb",1999.0,A+,9,0.23
+483,"Frigider Gorenje R6192FW, 368 l, Clasa A++, H 185 cm, Alb",2899.0,A++,9,0.23
+484,"Frigider 2 usi Retro SMEG FAB30RR1, Clasa A++, 229L, rosu",10210.2,A++,0,0.23
+485,"Frigider Zanussi ZRG11600WA, 102l, A+, Alb",952.34,A+,0,0.23
+486,Pachet Frigider Albatros FA20+ si Multiblender Albatros MR601A,927.16,lipsa,0,0.23
+487,"Frigider cu doua usi Sharp SJXG690MBK, 556 l, Clasa A++, Plasmacluster, Hybrid Cooling System, No Frost, J-Tech Inverter, LED, H 187 cm, Negru",6465.0,A++,0,0.23
+488,Pachet Frigider Samus SR450A+ si Storcator Samus Slowstar,1625.97,lipsa,0,0.23
+489,"Frigider cu doua usi Bosch KDN56AI22, 466 l, Clasa A+, H 186 cm, Inox",5694.15,A+,0,0.23
+490,"Frigider cu o usa Liebherr Premium TP 1764, 119 l, Clasa A+++, H 85 cm, Alb",1999.0,A+++,0,0.23
+491,"Racitor Liebherr K 2330, 217 L, clasa A+",1899.0,A+,0,0.23
+492,"Frigider Gorenje RF4141ANW, 210 l, 143 cm, Alb",904.98,lipsa,1,0.23
+493,"Frigider 2 usi Hitachi R-V470PRU8(PWH), No Frost, A++, 407L, inaltime 177 cm, Alb Pur",2899.99,lipsa,0,0.23
+494,Pachet Frigider Albatros FA27+ si Mixer Albatros MXA450W,848.79,lipsa,0,0.23
+495,Pachet Frigider Albatros FA28+ si Mixer Albatros MXA450W,848.79,lipsa,0,0.23
+496,"Frigider 2 usi Retro SMEG FAB30RV1, Clasa A++, 229L, verde",9103.5,A++,0,0.23
+497,"Frigider Hitachi R-VG610PRU7(GBK), No Frost, A++, 510L, inaltime 176 cm, sticla neagra",3499.0,lipsa,0,0.23
+498,"Frigider cu o usa Electrolux ERF4115DOW, 387 l, Clasa A+, H 185 cm, Alb",3367.7,A+,1,0.23
+499,"Frigider Incorporabil TEKA TKI3 215, Capacitatea 200 l, Congelator ****, Clasa A++, Alb",3944.85,A++,0,0.23
+500,"Frigider incorporabil Electrolux ERN3213AOW, 319 l, Clasa A+, H 177 cm, Alb",2735.81,A+,0,0.23
+501,"Frigider cu 1 usa Retro SMEG FAB10RUJ, Clasa A+, 120L, Anglia",10669.54,A+,0,0.23
+502,"Frigider cu 1 usi Gorenje R6191DX, A+, 368 l, DynamicCooling, Inox",2489.57,lipsa,0,0.23
+503,"Frigider cu o usa Liebherr T 1414, 122 l, Clasa A+, H 85 cm, Alb",1289.0,A+,0,0.23
+504,"Frigider/congelator Amica, 2 usi, Clasa A+, 170 cm",2271.98,A+,0,0.23
+505,"Frigider cu o usa Liebherr T 1404, 122 l, Clasa A+, H 85 cm, Alb",1208.9,A+,0,0.23
+506,"Frigider cu 2 usi Retro Bompani BODP740/C, Clasa A+, 400 litri, Latime 70 cm, Crem",5999.0,A+,0,0.23
+507,"Frigider incorporabil Electrolux ERN1300AOW,130 l, H 82, Clasa A+, Alb",1555.49,A+,2,0.23
+508,"Frigider incorporabil Bosch KIL18V20FF, A+, 129 l, FreshSense, Alb",1908.36,lipsa,0,0.23
+509,"Frigider incorporabil Gorenje RIU6092AW, A++, 143 l, Alb",1846.8,lipsa,0,0.23
+510,"Frigider cu congelator,alb, rafturi de sticla,80 W,MPM-112-CJ-15",804.98,lipsa,0,0.23
+511,"Frigider cu 2 usi Severin Color editions KS 9797, Clasa A++, 173 KWh/an, 212L, Galben",2399.0,A++,0,0.23
+512,"Frigider cu o usa Retro Bompani BOMP114/K, Clasa A++, 275 litri, Latime 60 cm, Cupru",5999.0,A++,0,0.23
+513,Frigider bar cu 2 usi glisante,3280.0,lipsa,0,0.23
+514,"Frigider cu o usa Liebherr TPesf 1710, 147 L, Clasa A++, H 85 cm, Argintiu",1949.0,A++,0,0.23
+515,"Frigider Gorenje RB4091ANW, 97 l, Clasa A+, Alb",1081.61,A+,0,0.23
+516,"Frigider incorporabil Gorenje RI2181A1, A+, 301 l, DynamiCooling, Alb",3573.69,lipsa,0,0.23
+517,"Frigider 2 usi Retro SMEG FAB30LRO1, Clasa A++, 229L, roz",9102.31,A++,0,0.23
+518,"Frigider 2 usi Retro SMEG FAB30LX1, Clasa A++, 229L, argintiu",10222.1,A++,0,0.23
+519,"Frigider 2 usi Retro SMEG FAB30LNE1, Clasa A++, 229L, negru",10204.25,A++,0,0.23
+520,"Frigider cu 2 usi Retro Bompani BODP262/C, Clasa A+, 315 litri, Latime 60 cm, Crem",4999.0,A+,0,0.23
+521,"Frigider Gorenje ORB152X, 260 l, Clasa A++, H 154 cm, Silver",4815.0,A++,0,0.23
+522,"Frigider cu 2 usi Severin Retro RKG 8935, Clasa A++, 172 KWh/an, 210L, alb",2499.0,A++,0,0.23
+523,"Frigider cu o usa Beko BU1101, Clasa A +, 128 litri, Alb",1224.15,A,0,0.23
+524,"Frigider cu 1 usa BOMANN KB389, Clasa A++, 42L, cutie pentru gheata, argintiu",680.29,A++,0,0.23
+525,"Frigider cu 2 usi Retro Bompani BODP272/T, Clasa A+, 315 litri, Latime 60 cm, Turcoaz",4999.0,A+,0,0.23
+526,"Frigider cu 2 usi Retro Bompani BODP740/R, Clasa A+, 400 litri, Latime 70 cm, Rosu",5999.0,A+,0,0.23
+527,"Frigider cu 1 usa Bomann KS 2261, A+, 84 l, Alb",743.34,lipsa,0,0.23
+528,"Frigider cu 2 usi Severin Color editions KS 9795, Clasa A++, 173 KWh/an, 212L, Rosu",2499.0,A++,0,0.23
+529,"Frigider cu o usa Daewoo FN-102PWQ, 79 l, Clasa A+, H 71, Alb",1904.0,A+,4,0.23
+530,"Frigider cu doua usi Indesit RAA 29, 212 l, Clasa A+, H 143 cm, Alb",1352.83,A+,11,0.23
+531,"Frigider cu doua usi Amica FD2015.4X, 168 l, Clasa A+, H 122 cm, Inox",1393.45,A+,0,0.23
+532,"Frigider 2 usi Severin KGK 8952, Clasa A++, 270 KWh/an, 410 L, Total No Frost, inverter, inox negru",3299.0,A++,0,0.23
+533,"Frigider Electrolux EJ2301AOW2, 228 l, Clasa A+, H 140 cm, Alb",1399.99,A+,13,0.23
+534,"Frigider cu 2 usi Severin Retro KS 9957, Clasa A++, 173 KWh/an, 212L, Negru",2499.0,A++,0,0.23
+535,"Frigider cu 2 usi Morris S71585NFD, Clasa A++, Volum 450 Litri, Inox",3769.99,A++,0,0.23
+536,"Frigider cu 2 usi Retro Bompani BODP270/N, Clasa A+, 315 litri, Latime 60 cm, Negru",4999.0,A+,0,0.23
+537,"Frigider cu 2 usi Severin Color editions KS 9794, Clasa A++, 173 KWh/an, 212L, Negru",2399.0,A++,0,0.23
+538,"Frigider cu 2 usi Heinner HF-H212A+, 212L, clasa A+, H143 c, Alb",1455.0,A+,0,0.23
+539,"Frigider cu 1 usa SMEG FAB28RAZ1, No Frost, Clasa A++, 222L, albastru pastel",9102.31,A++,0,0.23
